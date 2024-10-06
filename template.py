@@ -19,7 +19,7 @@ list_files=[
   "src/utils/utils.py",
 
   "src/logger/logging.py",
-  "src/exception/exception",
+  "src/exception/exception.py",
 
   "tests/unit/__init__.py",
   "tests/intrgration/__init__.py",
